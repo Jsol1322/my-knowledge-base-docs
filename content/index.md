@@ -1,42 +1,27 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Japanese Car Culture & Touge Racing
 ---
-## The index page
-
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
-
-## Editing pages
-
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
-
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
 
 ---
-## Adding new pages
+# Japanese Car Culture & Touge Racing
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+Welcome to my knowledge base! This website is about Japanese car culture, touge racing, street builds, automotive history, and the creativity behind modifying cars.
 
+I'll be collecting information about interesting cars, racing styles, modifications, and the culture that makes the Japanese automotive scene so interesting.
+
+## What You'll Find Here
+
+- **Touge Racing:** The history and culture of mountain road racing in Japan.
+- **Car Builds:** Modifications, styling, performance upgrades, and project cars.
+- **JDM Culture:** Japanese Domestic Market vehicles and automotive trends.
+- **Motorsport:** Drifting, circuit racing, and other forms of Japanese motorsport.
+
+## Why This Topic?
+
+I've always been interested in cars, having owned domestic, Korean, and Japanese vehicles.
+
+Japanese car culture brings together mechanical creativity, personal expression, and motorsports that have translated to the United States.
+
+I want to learn more about where these styles came from, how they developed, and what makes them different.
+
+This knowledge base will grow as I research and document different parts of the culture.
