@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-baseUrl: "jsol1322.github.io/my-knowledge-base-docs",
+    baseUrl: "jsol1322.github.io/my-knowledge-base-docs",
     ignorePatterns: ["private", "_templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
